@@ -9,7 +9,15 @@ I am a Research Scientist and a collaborative problem solver.
 
 [<img align="left" alt="https://eekwedike.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-[<img align="left" alt="eekwedike | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/eekwedike/]
+[<img align="left" alt="eekwedike | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[<img align="left" alt="eekwedike | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlescholar.svg" />][https://scholar.google.com/citations?user=GMzu11wAAAAJ&hl=en]
+[<img align="left" alt="eekwedike | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlescholar.svg" />][googlescholar]
 
+
+
+
+
+
+[website]: https://eekwedike.github.io/
+[linkedin]: https://www.linkedin.com/in/eekwedike/
+[googlescholar]: https://scholar.google.com/citations?user=GMzu11wAAAAJ&hl=en
